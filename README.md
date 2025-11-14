@@ -218,7 +218,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 👨‍💻 Authors
 
-**Rafael Rocha** - *Initial work* - https://github.com/rafaeldr5150
+**Rafael Rocha** - https://github.com/rafaeldr5150
+
+**Lokesh** - https://github.com/lokesh12190
 
 ## 🙏 Acknowledgements
 
