@@ -222,6 +222,8 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 **Lokesh** - https://github.com/lokesh12190
 
+**Frank Sarfo** - https://github.com/Frank080811
+
 ## 🙏 Acknowledgements
 
 ### Resources
