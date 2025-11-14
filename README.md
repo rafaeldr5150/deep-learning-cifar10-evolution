@@ -31,6 +31,11 @@ This comprehensive portfolio demonstrates a structured learning progression thro
 - To demonstrate practical implementation of theoretical concepts
 - To provide reproducible examples for educational purposes
 
+**Technical Environment:**
+- 🔥 **Google Colab Pro+** for accelerated GPU training
+- 💾 Extensive model persistence and backup strategies
+- ⚡ Optimized for high-performance computing environments
+
 **Key Features:**
 - 🔍 **Progressive Difficulty**: Starts simple, advances to complex
 - 📊 **Consistent Benchmarking**: Same dataset across all experiments
@@ -60,6 +65,25 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Python 3.8 or higher
 - pip (Python package manager)
 - Jupyter Notebook or Google Colab account
+
+### 💰 Computing Resources
+This project was developed using **Google Colab Pro+** to leverage:
+- A100/T4 GPU acceleration for faster training
+- Extended session times for complex model architectures
+- Enhanced memory for large-scale experiments
+
+## 🔧 Technical Environment
+
+### Cloud Computing Platform
+- **Google Colab Pro+** with premium GPU access
+- A100/T4 Tensor Core GPUs for accelerated training
+- High-RAM runtime for complex model architectures
+
+### Why This Matters:
+- Enabled training of state-of-the-art architectures
+- Reduced training time from days to hours
+- Supported extensive hyperparameter tuning
+- Facilitated model persistence and versioning
 
 ### Installation
 
