@@ -66,7 +66,7 @@ Each notebook is self-contained and can be run independently:
 
 python
 # Example: Run Custom CNN notebook
-jupyter notebook 1_CNN_Custom_DataAugmentation.ipynb
+jupyter notebook 1_CNN_Model.ipynb
 
 # Or in Google Colab:
 # Upload notebook and ensure GPU runtime
